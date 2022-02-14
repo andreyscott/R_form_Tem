@@ -1,17 +1,18 @@
 # Template Page Task - REACT 🔥
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/andreyscott/R_formTemplate/master?label=GitHub%20Workflow%20Status&logo=github&style=for-the-badge)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/andreyscott/R_form_Tem/master?label=GitHub%20Workflow%20Status&logo=github&style=for-the-badge)
 [![Twitter Follow](https://img.shields.io/twitter/follow/andreyscott5?style=social)](https://twitter.com/andreyscott5)
 
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]()
 [![CSS3](https://img.shields.io/badge/-CSS3-fff?&logo=CSS3&logoColor=0000FF)]()
-[![GitHub Stars](https://img.shields.io/github/stars/andreyscott/R_formTemplate?style=social)]()
-[![GitHub Forks](https://img.shields.io/github/forks/andreyscott/R_formTemplate?style=social)]()
-[![GitHub Issues](https://img.shields.io/github/issues/andreyscott/R_formTemplate?style=social)]()
-[![GitHub License](https://img.shields.io/github/license/andreyscott/R_formTemplate?style=social)]()
-[![GitHub Contributors](https://img.shields.io/github/stars/andreyscott/R_formTemplate?style=social)]()
-[![GitHub Release](https://img.shields.io/github/release/andreyscott/R_FormTemplate?style=social)]()
+
+[![GitHub Stars](https://img.shields.io/github/stars/andreyscott/R_form_Tem?style=social)]()
+[![GitHub Forks](https://img.shields.io/github/forks/andreyscott/R_form_Tem?style=social)]()
+[![GitHub Issues](https://img.shields.io/github/issues/andreyscott/R_form_Tem?style=social)]()
+[![GitHub License](https://img.shields.io/github/license/andreyscott/R_form_Tem?style=social)]()
+[![GitHub Contributors](https://img.shields.io/github/stars/andreyscott/R_form_Tem?style=social)]()
+[![GitHub Release](https://img.shields.io/github/release/andreyscott/R_form_Tem?style=social)]()
 
 ## A Form Like Template Single Page Web site built with React and Redux .
 
@@ -84,7 +85,7 @@ CORS - Solved By Utilising CORS-Anywhere
 
 **Andrew Irorere** [![Twitter Follow](https://img.shields.io/twitter/follow/andreyscott5?style=social)](https://twitter.com/andreyscott5)
 
-<!-- [![Visits Badge](https://badges.pufler.dev/visits/andreyscott/R_FormTemplate)](https://badges.pufler.dev) -->
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/andreyscott/R_form_Tem)](https://badges.pufler.dev) -->
 
 [Link to live](https:///)
 

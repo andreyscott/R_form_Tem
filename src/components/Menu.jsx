@@ -114,7 +114,7 @@ const ViewScroller = styled.div`
     }
 
     ::-webkit-scrollbar-thumb {
-      background: #171616; 
+      background: #e3bfbf; 
       height: 100px;
       width: 2px;
       border-radius: 10px;
